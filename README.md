@@ -67,6 +67,8 @@ The operation of a BGR circuit relies on the combination of two types of tempera
 
 By summing a CTAT and a scaled PTAT component, the temperature coefficients can be cancelled, resulting in a temperature-independent reference.
 
+![Bandgap Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap%20Diagram.png)
+
 ### Applications
 
 Bandgap references are widely used in:
