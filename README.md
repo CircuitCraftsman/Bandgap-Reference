@@ -50,8 +50,11 @@ Magic is a venerable VLSI layout tool, written in the 1980s at Berkeley by John 
 SKY130 is a mature 180nm- 130nm hybrid technology developed by Cypress Semiconductor that has been used for many production parts. SKY130 is now available as a foundry technology through SkyWater Technology Foundry. The technology is the 8th generation SONOS technology node (130nm).
 
 
+- Inkscape
 
+![Inkscape](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Inkscape.jpg)
 
+Inkscape is a vector graphics editor. It is used for both artistic and technical illustrations, such as cartoons, clip art, logos, typography, diagrams, and flowcharts. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. It is free and open-source software released under a GNU General Public License (GPL) 2.0 or later.
 
 
 # References
