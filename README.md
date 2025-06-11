@@ -33,13 +33,13 @@ Ngspice is an open-source mixed-level/mixed-signal electronic circuit simulator.
 
 - Magic VLSI
 
-![Xschem](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Xschem.png)
+![Magic](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Magic.png)
 
 Magic is a venerable VLSI layout tool, written in the 1980s at Berkeley by John Ousterhout, now famous primarily for writing the scripting interpreter language Tcl. Due largely in large part to its liberal Berkeley open-source license, magic has remained popular with universities and small companies. The open-source license has allowed VLSI engineers with a bent toward programming to implement clever ideas and help magic stay abreast of fabrication technology. However, it is the well-thought-out core algorithms that lend magic the greatest part of its popularity. Magic is widely cited as being the easiest tool to use for circuit layout, even for people who ultimately rely on commercial tools for their product design flow.
 
 - SkyWater 130
 
-![Xschem](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Xschem.png)
+![Skywater 130](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Skywater%20130.png)
 
 SKY130 is a mature 180nm- 130nm hybrid technology developed by Cypress Semiconductor that has been used for many production parts. SKY130 is now available as a foundry technology through SkyWater Technology Foundry. The technology is the 8th generation SONOS technology node (130nm).
 
