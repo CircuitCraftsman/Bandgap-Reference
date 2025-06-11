@@ -3,7 +3,7 @@ Open-Source Bandgap Reference Circuit
 
 # Contents
 - [Introduction](#Introduction)
-  - [Used Tools](#Used-Tools)   
+  - [Used Tools](#Used-Tools)
 - [Theory](#Theory)
   - [Specifications](#Specifications)
 - [Schematic](#Schematic)
