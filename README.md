@@ -2,6 +2,7 @@
 Open-Source Bandgap Reference Circuit
 
 # Contents
+- [Theory](#Theory)
 - [Introduction](#Introduction)
 - [Parameters](#Parameters)
 - [Schematic](#Schematic)
@@ -10,4 +11,4 @@ Open-Source Bandgap Reference Circuit
 - [Layout](#Layout)
 - [Future Work](#Future-Work)
 
-# Introduction
+# Theory
