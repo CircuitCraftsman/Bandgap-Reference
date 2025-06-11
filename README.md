@@ -14,7 +14,7 @@ Open-Source Self-Biased Current-Mode Bandgap Reference Circuit
 - [References](#References)
 
 # Introduction
-This is an open-source voltage-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). 
+This is an open-source self-biased current-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). 
 
 ![Circuit Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap.png)
 ## Used Tools
@@ -67,7 +67,9 @@ The operation of a BGR circuit relies on the combination of two types of tempera
 
 By summing a CTAT and a scaled PTAT component, the temperature coefficients can be cancelled, resulting in a temperature-independent reference.
 
-![Bandgap Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap%20Diagram.png)
+<p align="center">
+  <img src="https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap%20Diagram.png" alt="Bandgap Diagram" width="500"/>
+</p>
 
 Types of bandgap references available in literature:
 - Voltage-Mode Bandgap Reference  
