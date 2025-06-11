@@ -56,6 +56,40 @@ SKY130 is a mature 180nm- 130nm hybrid technology developed by Cypress Semicondu
 
 Inkscape is a vector graphics editor. It is used for both artistic and technical illustrations, such as cartoons, clip art, logos, typography, diagrams, and flowcharts. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. It is free and open-source software released under a GNU General Public License (GPL) 2.0 or later.
 
+# Theory
+
+A **Bandgap Reference (BGR)** circuit is an essential analog building block used to generate a stable and temperature-independent reference voltage. It typically produces an output voltage around **1.2 V**, which is close to the bandgap voltage of silicon at 0 K. This voltage remains relatively constant over a wide temperature range and supply voltage variations, making it critical in precision analog, mixed-signal, and digital systems.
+
+The operation of a BGR circuit relies on the combination of two types of temperature-dependent voltages:
+
+- **CTAT (Complementary-To-Absolute-Temperature)**: A voltage that decreases with increasing temperature, typically the base-emitter voltage (V<sub>BE</sub>) of a bipolar transistor.
+- **PTAT (Proportional-To-Absolute-Temperature)**: A voltage that increases with temperature, derived from the difference between two V<sub>BE</sub> voltages with different current densities.
+
+By summing a CTAT and a scaled PTAT component, the temperature coefficients can be cancelled, resulting in a temperature-independent reference.
+
+### Applications
+
+Bandgap references are widely used in:
+
+- Analog-to-Digital Converters (ADCs)
+- Digital-to-Analog Converters (DACs)
+- Voltage regulators (LDOs, SMPS)
+- Clock circuits and PLLs
+- Sensor interface circuits
+
+### Advantages
+
+- Low temperature coefficient
+- Process and supply variation tolerance
+- Fully CMOS-compatible implementations are possible
+
+### Disadvantages
+
+- Limited accuracy without trimming or calibration
+- Power consumption in precision designs
+- Susceptible to mismatch and layout parasitics
+
+Bandgap reference circuits are fundamental in modern integrated circuits where stable voltage references are critical for proper operation across varying environmental and operational conditions.
 
 # References
 
