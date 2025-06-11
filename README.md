@@ -1,5 +1,5 @@
 # Bandgap-Reference
-Open-Source Bandgap Reference Circuit
+Open-Source Self-Biased Current-Mode Bandgap Reference Circuit
 
 # Contents
 - [Introduction](#Introduction)
