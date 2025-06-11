@@ -52,7 +52,7 @@ SKY130 is a mature 180nm- 130nm hybrid technology developed by Cypress Semicondu
 
 - Inkscape
 
-![Inkscape](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Inkscape.jpg)
+![Inkscape](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Inkscape.webp)
 
 Inkscape is a vector graphics editor. It is used for both artistic and technical illustrations, such as cartoons, clip art, logos, typography, diagrams, and flowcharts. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. It is free and open-source software released under a GNU General Public License (GPL) 2.0 or later.
 
