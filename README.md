@@ -26,7 +26,7 @@ Xschem is a schematic capture program that allows the creation of a hierarchical
 
 - Ngspice
 
-![Xschem](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Xschem.png)
+![Ngspice](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Ngspice_logo.jpg)
 
 Ngspice is an open-source mixed-level/mixed-signal electronic circuit simulator. It is a successor of the latest stable release of Berkeley SPICE, version 3f.5, which was released in 1993. A small group of maintainers and the user community contribute to the ngspice project by providing new features, enhancements, and bug fixes.
 
