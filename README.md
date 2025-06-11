@@ -14,7 +14,7 @@ Open-Source Self-Biased Current-Mode Bandgap Reference Circuit
 - [References](#References)
 
 # Introduction
-This is an open-source self-biased current-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). 
+This is an open-source, self-biased current-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). The circuit architecture and simulations are taken from the "https://github.com/silicon-vlsi/BGR_DESIGN_SKY130nm.git" repo and changed slightly, but the layout is fully customized.
 
 ![Circuit Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap.png)
 ## Used Tools
