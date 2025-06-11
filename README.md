@@ -2,13 +2,14 @@
 Open-Source Bandgap Reference Circuit
 
 # Contents
-- [Theory](#Theory)
 - [Introduction](#Introduction)
-- [Parameters](#Parameters)
+- [Theory](#Theory)
+- [Used Tools](#Used-Tools)
 - [Schematic](#Schematic)
-- [Pre-Layout Simulation](#Pre-Layout-Simulation)
-- [Script for full simulation](#Script-for-full-simulation)
+- [Pre-Layout Simulations](#Pre-Layout-Simulations)
 - [Layout](#Layout)
+- [Post-Layout Simulations](#Post-Layout-Simulations)
 - [Future Work](#Future-Work)
+- [References](#References)
 
-# Theory
+# Introduction
