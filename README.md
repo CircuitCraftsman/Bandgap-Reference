@@ -18,7 +18,7 @@ This is an open-source voltage-mode bandgap reference circuit, designed using th
 
 ## Used Tools
 
-- Xschem
+- # Xschem
 
 ![Xschem](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Xschem.png)
 
