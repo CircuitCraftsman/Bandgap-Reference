@@ -69,6 +69,16 @@ By summing a CTAT and a scaled PTAT component, the temperature coefficients can 
 
 ![Bandgap Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap%20Diagram.png)
 
+Types of bandgap references available in literature:
+- Voltage-Mode Bandgap Reference  
+- Current-Mode Bandgap Reference  
+- Sub-Bandgap Reference  
+- CMOS-Only Bandgap Reference  
+- Curvature-Corrected Bandgap Reference  
+- Dynamic Bandgap Reference  
+- Low Power Bandgap Reference  
+- High-Precision Bandgap Reference
+
 ### Applications
 
 Bandgap references are widely used in:
