@@ -3,9 +3,9 @@ Open-Source Bandgap Reference Circuit
 
 # Contents
 - [Introduction](#Introduction)
+  - [Used Tools](#Used-Tools)   
 - [Theory](#Theory)
   - [Specifications](#Specifications)
-- [Used Tools](#Used-Tools)
 - [Schematic](#Schematic)
 - [Pre-Layout Simulations](#Pre-Layout-Simulations)
 - [Layout](#Layout)
@@ -15,3 +15,6 @@ Open-Source Bandgap Reference Circuit
 
 # Introduction
 This is an open-source voltage-mode bandgap reference circuit design. 
+
+
+# 
