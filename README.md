@@ -114,7 +114,7 @@ Bandgap reference circuits are fundamental in modern integrated circuits where s
 | Power Consumption     | < 60 µW             |
 | Off Current           | < 2 µA              |
 | Start-up Time         | < 2 µs              |
-| Tempco of V<sub>ref</sub> | < 50 ppm           |
+| Tempco for V<sub>ref</sub> | < 50 ppm           |
 
-# References
+# Schematic
 
