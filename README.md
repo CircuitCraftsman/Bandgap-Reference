@@ -105,7 +105,7 @@ Bandgap references are widely used in:
 
 Bandgap reference circuits are fundamental in modern integrated circuits where stable voltage references are critical for proper operation across varying environmental and operational conditions.
 
-#### Specifications
+### Specifications
 
 | Parameter             | Value               |
 |-----------------------|---------------------|
