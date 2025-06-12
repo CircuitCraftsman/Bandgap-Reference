@@ -14,7 +14,7 @@ Open-Source Self-Biased Current-Mode Bandgap Reference Circuit
 - [References](#References)
 
 # Introduction
-This is an open-source, self-biased current-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). The circuit architecture and simulations are taken from the "https://github.com/silicon-vlsi/BGR_DESIGN_SKY130nm.git" repo and changed slightly, but the layout is fully customized.
+This is an open-source, self-biased current-mode bandgap reference circuit, designed using the Skywater 130 process design kit (PDK). The circuit architecture and simulations are taken from the "https://github.com/silicon-vlsi/BGR_DESIGN_SKY130nm.git" repository and have been modified slightly, but the layout is fully customized.
 
 ![Circuit Diagram](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Bandgap.png)
 ## Used Tools
@@ -23,7 +23,7 @@ This is an open-source, self-biased current-mode bandgap reference circuit, desi
 
 ![Xschem](https://github.com/CircuitCraftsman/Bandgap-Reference/blob/main/Images/Xschem.png)
 
-Xschem is a schematic capture program that allows the creation of a hierarchical representation of circuits using a top-down approach. By focusing on interfaces, hierarchy, and instance properties, a complex system can be described in terms of simpler building blocks. A VHDL, Verilog, or Spice netlist can be generated from the drawn schematic, allowing the simulation of the circuit. The key feature of the program is its drawing engine, written in C and using the Xlib drawing primitives; this gives very good speed performance, even in huge circuits. The user interface is built with the Tcl-Tk toolkit; TCL is the extension language.
+Xschem is a schematic capture program that allows the creation of a hierarchical representation of circuits using a top-down approach. By focusing on interfaces, hierarchy, and instance properties, a complex system can be described in terms of simpler building blocks. A VHDL, Verilog, or Spice netlist can be generated from the drawn schematic, allowing the simulation of the circuit. The key feature of the program is its drawing engine, written in C and utilizing the Xlib drawing primitives, which provides very good speed performance, even in large circuits. The user interface is built with the Tcl-Tk toolkit; TCL is the extension language.
 
 
 
@@ -104,6 +104,17 @@ Bandgap references are widely used in:
 - Susceptible to mismatch and layout parasitics
 
 Bandgap reference circuits are fundamental in modern integrated circuits where stable voltage references are critical for proper operation across varying environmental and operational conditions.
+
+#### Specifications
+
+| Parameter             | Value               |
+|-----------------------|---------------------|
+| Supply Voltage        | 1.8 V               |
+| Temperature Range     | -40°C to 125°C      |
+| Power Consumption     | < 60 µW             |
+| Off Current           | < 2 µA              |
+| Start-up Time         | < 2 µs              |
+| Tempco of V<sub>ref</sub> | < 50 ppm           |
 
 # References
 
