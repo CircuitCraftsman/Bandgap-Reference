@@ -135,4 +135,26 @@ Bandgap reference circuits are fundamental in modern integrated circuits where s
 
 ![Bandgap Reference](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Bandgap%20Reference.png)
 
-- To get a 1:8 emitter area ratio, I placed 8 pnp BJTs in parallel. It is also useful for matching in layout.
+- To get a 1:8 emitter area ratio, I placed 8 pnp BJTs in parallel. It is also useful for matching in the layout.
+
+# Pre-Layout Simulations
+
+V<sub>ref</sub>
+
+![Vref](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Vref.png)
+
+- Temperature sweep from -50°C to +150°C.
+
+**PTAT**
+
+![PTAT](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/PTAT.jpg)
+
+**CTAT**
+
+![CTAT](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/CTAT.jpg)
+
+**PTAT+CTAT**
+
+![PTAT+CTAT](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/CTAT%2BPTAT.jpg)
+
+# Layout
