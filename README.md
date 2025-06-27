@@ -63,7 +63,16 @@ A **Bandgap Reference (BGR)** circuit is an essential analog building block used
 The operation of a BGR circuit relies on the combination of two types of temperature-dependent voltages:
 
 - **CTAT (Complementary-To-Absolute-Temperature)**: A voltage that decreases with increasing temperature, typically the base-emitter voltage (V<sub>BE</sub>) of a bipolar transistor.
+  
+  <p align="center">
+  <img src="https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/CTAT%20curve.jpg" alt="CTAT curve" width="500"/>
+</p>
+  
 - **PTAT (Proportional-To-Absolute-Temperature)**: A voltage that increases with temperature, derived from the difference between two V<sub>BE</sub> voltages with different current densities.
+
+<p align="center">
+  <img src="https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/PTAT%20curve.jpg" alt="PTAT curve" width="500"/>
+</p>
 
 By summing a CTAT and a scaled PTAT component, the temperature coefficients can be cancelled, resulting in a temperature-independent reference.
 
@@ -117,4 +126,13 @@ Bandgap reference circuits are fundamental in modern integrated circuits where s
 | Tempco for V<sub>ref</sub> | < 50 ppm           |
 
 # Schematic
+**Testbench circuit**
 
+![Bandgap Testbench](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Bandgap_tb.png)
+
+
+**Bandgap Circuit**
+
+![Bandgap Reference](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Bandgap%20Reference.png)
+
+- To get a 1:8 emitter area ratio, I placed 8 pnp BJTs in parallel. It is also useful for matching in layout.
