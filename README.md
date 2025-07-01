@@ -186,10 +186,6 @@ V<sub>ref</sub>
 
 ![Res_network](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Res%20network.png)
 
-**33K resistor network W=0.35um L=11um**
-
-![Res_network](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/Res%20network.png)
-
 **PNP BJTs area of 0.68x0.68**
 
 ![PNP BJTs](https://github.com/TechBlueprint-V/Bandgap-Reference/blob/main/Images/BJT.png)
